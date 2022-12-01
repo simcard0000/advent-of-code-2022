@@ -4,7 +4,7 @@
 # advent-of-code-2022
 ❄️ My solutions to Advent of Code 2022 problems! 
 
-All solutions are held as their own functions in one large javascript file; if you want to try out a specific function out uncomment the respective function call! The solutions aren't necessarily the most optimized/efficient/condensed.
+All solutions are held as their own functions in one large TypeScript file; if you want to try out a specific function out uncomment the respective function call! The solutions aren't necessarily the most optimized/efficient/condensed.
 
 ## Problems
 | Day | Problem Statement                                          | Completion  | Function Name |           Input           | A: Solution | B: Solution | 
