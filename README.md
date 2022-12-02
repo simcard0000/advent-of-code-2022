@@ -9,8 +9,8 @@ All solutions are held as their own functions in one large TypeScript file; if y
 ## Problems
 | Day | Problem Statement                                          | Completion  | Function Name |           Input           | A: Solution | B: Solution | 
 | --- | ---------------------------------------------------------- | ----------- | ------------- | ------------------------- | ----------- | ----------- |
-|  1  | [Calorie Counting](https://adventofcode.com/2022/day/1)         |✅            | day1A/day1B  | [day1input](https://github.com/simcard0000/advent-of-code-2022/blob/main/inputs/day1input.txt)                |69528             |206152             |
-|  2  | [](https://adventofcode.com/2022/day/2)               |⚠            | day2A/day2B  | [day2input]                |             |             | 
+|  1  | [Calorie Counting](https://adventofcode.com/2022/day/1)         |✅           | day1A/day1B  | [day1input](https://github.com/simcard0000/advent-of-code-2022/blob/main/inputs/day1input.txt)                |69528             |206152             |
+|  2  | [Rock Paper Scissors](https://adventofcode.com/2022/day/2)               |✅             | day2A/day2B  | [day2input](https://github.com/simcard0000/advent-of-code-2022/blob/main/inputs/day2input.txt)                |9241             |14610             | 
 |  3  | [](https://adventofcode.com/2022/day/3)   |⚠            | day3A/day3B  | [day3input]                |             |             |
 |  4  | [](https://adventofcode.com/2022/day/4)         |⚠            | day4A/day4B  | [day4input]                |             |             |
 |  5  | [](https://adventofcode.com/2022/day/5)                                                           |⚠            | day5A/day5B  | [day5input]                |             |             |
