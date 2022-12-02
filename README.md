@@ -6,6 +6,13 @@
 
 All solutions are held as their own functions in one large TypeScript file; if you want to try out a specific function out uncomment the respective function call! The solutions aren't necessarily the most optimized/efficient/condensed.
 
+## Getting Started
+Install all dependencies with: `npm install`
+
+Run linting with: `npx eslint .`
+
+Run the code file in the terminal with: `npx ts-node advent-of-code-2022.ts`
+
 ## Problems
 | Day | Problem Statement                                          | Completion  | Function Name |           Input           | A: Solution | B: Solution | 
 | --- | ---------------------------------------------------------- | ----------- | ------------- | ------------------------- | ----------- | ----------- |
